@@ -20,5 +20,7 @@
 <br />
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lakshanamal&show_icons=true&hide_border=true" />
+  <img align="left" GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lakshanamal&show_icons=true&hide_border=true" />
 </details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
