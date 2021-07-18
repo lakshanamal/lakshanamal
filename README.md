@@ -14,7 +14,8 @@
  
  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lakshanamal&show_icons=true&theme=radical)
-)
+<br />
 
 ![](https://raw.githubusercontent.com/lakshanamal/github-stats-transparent/output/generated/overview.svg)
+ <br />
 ![](https://raw.githubusercontent.com/lakshanamal/github-stats-transparent/output/generated/languages.svg)
