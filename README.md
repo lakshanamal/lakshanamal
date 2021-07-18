@@ -13,7 +13,8 @@
 <br />
  
  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lakshanamal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lakshanamal&show_icons=true&theme=radical)
+)
 
 ![](https://raw.githubusercontent.com/lakshanamal/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/lakshanamal/github-stats-transparent/output/generated/languages.svg)
