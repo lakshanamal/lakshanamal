@@ -1,7 +1,7 @@
-### Hi there ,I am Amal👋👋👋
+###  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hi there ,I am Amal👋👋👋
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
- - 🔭 I’m currently working on something cool!
+ - 🔭 I’m currently working on something cool!  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  - 🌱 I’m currently learning everything😊
  - 🥅 2021 Goals: Contribute more to Open Source projects
  - 💬 Ask me about GitHub
