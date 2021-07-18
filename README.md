@@ -1,4 +1,5 @@
 ### Hi there ,I am Amal👋👋👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
  - 🔭 I’m currently working on something cool!
  - 🌱 I’m currently learning everything😊
@@ -14,5 +15,5 @@
  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lakshanamal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/lakshanamal/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/lakshanamal/github-stats-transparent/output/generated/languages.svg)
