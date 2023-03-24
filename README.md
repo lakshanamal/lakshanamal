@@ -3,7 +3,7 @@
 
  - 🔭 I’m currently working on something cool!  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  - 🌱 I’m currently learning everything😊
- - 🥅 2021 Goals: Contribute more to Open Source projects
+ - 🥅 2023 Goals: Contribute more to Open Source projects
  - 💬 Ask me about GitHub
 <br />
 
